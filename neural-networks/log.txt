@@ -1,0 +1,27 @@
+learning rate: 0.30
+multiplicative constant (k): 2.0
+hidden units: 30
+Epoch:   1,  Number of classification errors: 484 (/1411)
+Epoch:   2,  Number of classification errors: 138 (/1411)
+Epoch:   3,  Number of classification errors: 98 (/1411)
+Epoch:   4,  Number of classification errors: 69 (/1411)
+Epoch:   5,  Number of classification errors: 64 (/1411)
+Epoch:   6,  Number of classification errors: 43 (/1411)
+Epoch:   7,  Number of classification errors: 43 (/1411)
+Epoch:   8,  Number of classification errors: 35 (/1411)
+Epoch:   9,  Number of classification errors: 29 (/1411)
+Epoch:  10,  Number of classification errors: 27 (/1411)
+Epoch:  11,  Number of classification errors: 21 (/1411)
+Epoch:  12,  Number of classification errors: 25 (/1411)
+Epoch:  13,  Number of classification errors: 20 (/1411)
+Epoch:  14,  Number of classification errors: 15 (/1411)
+Epoch:  15,  Number of classification errors: 17 (/1411)
+Epoch:  16,  Number of classification errors: 14 (/1411)
+Epoch:  17,  Number of classification errors: 7 (/1411)
+Epoch:  18,  Number of classification errors: 8 (/1411)
+Epoch:  19,  Number of classification errors: 11 (/1411)
+Epoch:  20,  Number of classification errors: 7 (/1411)
+Epoch:  21,  Number of classification errors: 2 (/1411)
+Training epochs =    21
+Classification errors on training data = 2 (/1411)
+Classification errors on test data = 67 (/1412)
